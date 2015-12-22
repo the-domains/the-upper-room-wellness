@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Upper Room Wellness]]></title>
         <description><![CDATA[The Upper Room Wellness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-upper-room-wellness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 14:31:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 14:39:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-upper-room-wellness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fce0818-3521-46fa-bb09-6c92856c61a9.tiff">]]></description>
+            <link>https://thegrid.ai/the-upper-room-wellness/db21a431-22b6-4076-8dc6-81ac49b6cd57/index.html</link>
+            <guid isPermaLink="false">db21a431-22b6-4076-8dc6-81ac49b6cd57</guid>
+            <pubDate>Tue, 22 Dec 2015 14:39:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to The Upper Room Wellness! </p>]]></description>
-            <link>undefined4eb9d0ed-6f21-413a-8ba5-e2559e178e3a/index.html</link>
+            <link>https://thegrid.ai/the-upper-room-wellness/4eb9d0ed-6f21-413a-8ba5-e2559e178e3a/index.html</link>
             <guid isPermaLink="false">4eb9d0ed-6f21-413a-8ba5-e2559e178e3a</guid>
             <pubDate>Tue, 22 Dec 2015 14:31:23 GMT</pubDate>
         </item>
